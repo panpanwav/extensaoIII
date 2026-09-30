@@ -1,0 +1,1 @@
+Esse repositório e projeto de Obsidian serve como uma espécie de documentação informal para tudo que está sendo feito no projeto. Como exemplo temos anotações de reuniões, lista de afazeres e informações que serão usadas no curso.
