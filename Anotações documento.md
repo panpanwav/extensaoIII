@@ -1,0 +1,3 @@
+Delimitação Problema:
+Trazer para trazer às pessoas interessadas em tecnologia conhecimento necessário para utilizar web como uma ferramenta para resolver os próprios problemas. Com a presença da IA nos dias atuais, é necessário ter um conhecimento para entender o que está sendo gerado e poder alterar.
+Definir o escopo do curso, o que é muito além da profundidade (o que é basico demais, o que é avançado demais). Deveria ensinar a baixar o vs code ou um git ou ja ensinar diretamente as plataformas. Dependencia de conteúdo e padronização
